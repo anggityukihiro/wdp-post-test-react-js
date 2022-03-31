@@ -1,4 +1,4 @@
-import { useState, Component } from "react";
+import { useState } from "react";
 import Main from "./pages/Main";
 import { Routes, Route, Link } from "react-router-dom";
 import OnepieceList from "./pages/Onepiece/OnepieceList";
@@ -8,11 +8,6 @@ import NarutoDetail from "./pages/Naruto/NarutoDetail";
 import ButtonNav from "./components/Button/ButtonNav";
 
 function App() {
-	const [darkMode, setDarkMode] = useState(false);
-
-	const handleDarkMode = () => {
-		setDarkMode(!darkMode);
-	};
 	
     function selectNew() {
         var newL = document.getElementById("list");
