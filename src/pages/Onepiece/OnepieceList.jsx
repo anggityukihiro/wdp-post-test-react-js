@@ -46,7 +46,7 @@ class OnepieceList extends Component {
                         </div>         
 					))}
                 </div>
-				<h4 class="text-base leading-relaxed mt-20 text-center">Source : <a href="https://www.omdbapi.com/" target="_blank">https://www.omdbapi.com/</a></h4>
+				<h4 class="text-base leading-relaxed mt-20 text-center">Source : <a href="https://www.omdbapi.com/" target="_blank" rel="noreferrer">https://www.omdbapi.com/</a></h4>
             </div>            
 
 		);

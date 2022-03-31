@@ -31,7 +31,7 @@ const NarutoDetail = () => {
 						<Link to = "/naruto" >
 							<Button text={'Back'} />
 						</Link>
-						<a href={data.data.url} target="_blank" class="px-5">
+						<a href={data.data.url} target="_blank" rel="noreferrer" rel="noreferrer" class="px-5">
 							<Button text={'More Detail'} />
 						</a> <br/>
 					</div>				
