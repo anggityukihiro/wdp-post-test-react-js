@@ -29,9 +29,9 @@ function App() {
 	return (
 
         <div>
-            <div class="bg-indigo-900 shadow-lg py-5 px-7 justify-between 2xl:container 2xl:mx-auto fixed w-full">
+            <div class="bg-indigo-900 shadow-lg py-5 px-7 justify-between fixed w-full mx-auto items-center">
                 <nav class="flex justify-between relative" id="navbar-wide">
-                    <ul class="hidden md:flex flex-auto space-x-2 justify-center /">
+                    <ul class="hidden md:flex flex-auto space-x-2 justify-center /"> 
                         <li>                            
                             <Link to="/"><ButtonNav text={'Author'} /></Link>
 						</li>
