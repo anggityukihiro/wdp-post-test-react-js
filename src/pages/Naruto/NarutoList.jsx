@@ -46,7 +46,7 @@ class NarutoList extends Component {
                         </div>         
 					))}
                 </div>
-				<h4 class="text-base leading-relaxed mt-20 text-center">Source : <a href="https://jikan.moe/" target="_blank">https://jikan.moe/</a></h4>
+				<h4 class="text-base leading-relaxed mt-20 text-center">Source : <a href="https://jikan.moe/" target="_blank" rel="noreferrer">https://jikan.moe/</a></h4>
             </div>
 		);
 	}

@@ -1,4 +1,3 @@
-import { useState } from "react";
 import Main from "./pages/Main";
 import { Routes, Route, Link } from "react-router-dom";
 import OnepieceList from "./pages/Onepiece/OnepieceList";
@@ -97,7 +96,7 @@ function App() {
 						class="text-sm text-white sm:ml-4 sm:pl-4 sm:border-l-2 sm:border-gray-200 sm:py-2 sm:mt-0 mt-4 text-center">
 						©
 						2022 - Coding Pertama React 
-						<a href="https://twitter.com/knyttneve" class="text-white ml-1" rel="noopener noreferrer"
+						<a href="https://twitter.com/knyttneve" class="text-white ml-1" 
 							target="_blank" rel="noreferrer"></a>
 					</p>
 					<span class="inline-flex sm:ml-auto sm:mt-0 mt-4 justify-center sm:justify-start">
