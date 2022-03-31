@@ -95,9 +95,7 @@ function App() {
 					<p
 						class="text-sm text-white sm:ml-4 sm:pl-4 sm:border-l-2 sm:border-gray-200 sm:py-2 sm:mt-0 mt-4 text-center">
 						©
-						2022 - Coding Pertama React 
-						<a href="https://twitter.com/knyttneve" class="text-white ml-1" 
-							target="_blank" rel="noreferrer"></a>
+						2022 - Coding Pertama React
 					</p>
 					<span class="inline-flex sm:ml-auto sm:mt-0 mt-4 justify-center sm:justify-start">
 						<a href="https://facebook.com/anggityukihiro" target="_blank" rel="noreferrer">
